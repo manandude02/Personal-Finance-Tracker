@@ -1,0 +1,15 @@
+# Dependency directories
+/vendor/
+
+# Go build output
+/bin/
+ 
+# IDE files
+.idea/
+.vscode/
+
+# macOS files
+.DS_Store
+
+# Environment files (containing secrets like API keys, passwords)
+.env
